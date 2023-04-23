@@ -5,6 +5,8 @@
 
 - I’m currently learning **Hyper-casual game mechanics**
 
+- All my Links: [https://linktr.ee/atakandll](https://linktr.ee/atakandll)
+
 - All of my projects are available at [https://atakandll.itch.io](https://atakandll.itch.io)
 
 - To watch the gameplay of my games [https://www.youtube.com/@atakandll/videos](https://www.youtube.com/@atakandll/videos)
