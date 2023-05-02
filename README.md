@@ -1,7 +1,7 @@
 <h1 align="center">Atakan Çınar</h1>
 <h3 align="center">Passionate about Game Development, coding enthusiast.</h3>
 
-- I’m currently working on **my 2D RPG Game and the first hyper-casual game to be released on May 1**
+- I’m currently working on **my 2D RPG Game and the first hyper-casual game to be released on very soon**
 
 - I’m currently learning **Hyper-casual game mechanics**
 
