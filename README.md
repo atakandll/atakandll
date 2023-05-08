@@ -3,7 +3,7 @@
 
 - I’m currently working on **my 2D RPG Game and the first hyper-casual game to be released on very soon**
 
-- I’m currently learning **Hyper-casual game mechanics**
+- I’m currently learning **Hyper-casual game mechanics and Multiplayer game. **
 
 - All my Links: [https://linktr.ee/atakandll](https://linktr.ee/atakandll)
 
