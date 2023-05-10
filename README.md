@@ -1,7 +1,7 @@
 <h1 align="center">Atakan Çınar</h1>
 <h3 align="center">Passionate about Game Development, coding enthusiast.</h3>
 
-- I’m currently working on **my multiplayer shooter game **
+- I’m currently working on **my multiplayer shooter game**
 
 - I’m currently learning **Hyper-casual game mechanics and Multiplayer game.**
 
