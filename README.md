@@ -1,8 +1,6 @@
 <h1 align="center">Atakan Çınar</h1>
 <h3 align="center">Passionate about Game Development, coding enthusiast.</h3>
 
-- I’m currently working on **my 2D Pixel-Art Metroidvania game and mobile shooter game**
-
 - All my Links: [https://linktr.ee/atakandll](https://linktr.ee/atakandll)
 
 - All of my games are available at [https://atakandll.itch.io](https://atakandll.itch.io)
