@@ -10,6 +10,29 @@
 
 - How to reach me **atakanccnar@outlook.com**
 
+#### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> Code Architecture 
+* OOP
+* SOLİD
+* DRY,Kiss
+* Clean Code
+
+#### <img vertical-align="bottom"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> Desing Pattern 
+* Singleton
+* Observer 
+* State-Machine
+* Object Pooling
+* Command Pattern
+* Faced Patttern
+
+#### <img vertical-align="bottom"  src="https://user-images.githubusercontent.com/77567437/205059436-84984621-2498-4a6a-a5a4-074a9be3d03a.png" alt="csharp" width="40" height="40"/> Tools 
+* DoTween
+* Odin Inspector
+* Cinamacine
+* NavmeshAI
+* MkToon
+* EasySave
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atakan-çınar-046975268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakan-çınar-046975268" height="30" width="40" /></a>
