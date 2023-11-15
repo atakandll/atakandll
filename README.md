@@ -21,13 +21,14 @@
 * Observer 
 * State-Machine
 * Object Pooling
-* Command Pattern
-* Faced Patttern
+* Command 
+* Faced
+* Strategy 
 
 #### <img vertical-align="bottom"  src="https://user-images.githubusercontent.com/77567437/205059436-84984621-2498-4a6a-a5a4-074a9be3d03a.png" alt="csharp" width="40" height="40"/> Tools 
 * DoTween
 * Odin Inspector
-* Cinamacine
+* Cinemachine
 * NavmeshAI
 * MkToon
 * EasySave
