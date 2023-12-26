@@ -12,7 +12,7 @@
 
 - How to reach me **atakanccnar@outlook.com**
 
-- #### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> Code Architecture 
+ #### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> Code Architecture 
 * OOP
 * SOLID
 * DRY-KISS
