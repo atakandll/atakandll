@@ -1,5 +1,7 @@
 <h1 align="center">Atakan Çınar</h1>
 
+
+
 <h3 align="center">Passionate about Game Development, coding enthusiast.</h3>
 
 - All my Links: [https://linktr.ee/atakandll](https://linktr.ee/atakandll)
@@ -9,6 +11,19 @@
 - To watch the gameplay of my games [https://www.youtube.com/@atakandll/videos](https://www.youtube.com/@atakandll/videos)
 
 - How to reach me **atakanccnar@outlook.com**
+
+- #### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> Code Architecture 
+* OOP
+* SOLID
+* DRY-KISS
+
+#### <img vertical-align="bottom"  src="https://user-images.githubusercontent.com/77567437/205059436-84984621-2498-4a6a-a5a4-074a9be3d03a.png" alt="csharp" width="40" height="40"/> Tools 
+* DOTween Pro
+* Odin Inspector
+* Easy Save 3
+* Navigation mesh
+* MK Toon
+* Cinemachine
 
   
 
