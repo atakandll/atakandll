@@ -8,6 +8,8 @@
 
 - All of my games are available at [https://atakandll.itch.io](https://atakandll.itch.io)
 
+- Play my mobile games at play store : [https://play.google.com/store/apps/developer?id=atakandll](https://play.google.com/store/apps/developer?id=atakandll)
+
 - To watch the gameplay of my games [https://www.youtube.com/@atakandll/videos](https://www.youtube.com/@atakandll/videos)
 
 - How to reach me **atakanccnar@outlook.com**
