@@ -13,12 +13,12 @@
     Contact me at <a href="mailto:atakanccnar@outlook.com">atakanccnar@outlook.com</a>
 </p>
 
-###  Code Architecture
+###  Code Architecture 
 - **Object-Oriented Programming (OOP)**
 - **SOLID Principles**
 - **DRY-KISS Methodologies**
 
-###   Development Tools
+###   Development Tools 
 - **DOTween Pro**
 - **Odin Inspector**
 - **Feel**
@@ -27,7 +27,7 @@
 - **MK Toon**
 - **Cinemachine**
 
-### Connect with me:
+### Connect with me 
   <a href="https://linkedin.com/in/atakan-çınar-046975268"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@atakandll/videos"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
